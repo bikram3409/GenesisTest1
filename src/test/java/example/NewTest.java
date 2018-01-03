@@ -33,7 +33,7 @@ public class NewTest implements t {
 		// Enter Password 
 		driver.findElement(By.xpath(".//*[@id='password']")).sendKeys("Pass@123");
 				
-		Thread.sleep(10000);
+		Thread.sleep(2000);
 
 		 //This will read the CAPTCHA 
          String captchaValue = driver.findElement(By.xpath("html/body/app-root/ng-component/app-sign-in/section/div/div/div[2]/form/div[3]/div/label/div"
