@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example.NewTest" duration-ms="21555" started-at="2018-01-03T09:27:31Z" finished-at="2018-01-03T09:27:52Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="21555" started-at="2018-01-03T09:27:31Z" finished-at="2018-01-03T09:27:52Z">
+      <class name="example.NewTest">
+        <test-method status="PASS" signature="testgooglrsearch()[pri:0, instance:example.NewTest@5f2050f6]" name="testgooglrsearch" duration-ms="21544" started-at="2018-01-03T09:27:31Z" finished-at="2018-01-03T09:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgooglrsearch -->
+      </class> <!-- example.NewTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- example.NewTest -->
+</testng-results>
